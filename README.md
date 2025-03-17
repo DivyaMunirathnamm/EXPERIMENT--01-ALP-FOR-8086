@@ -1,9 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-#Name : DIVYA M
+# Name : DIVYA M
 
-#Roll no : 212223040043
+# Roll no : 212223040043
 
-#Date of experiment : 03-03-2025
+# Date of experiment : 03-03-2025
 
 
 
