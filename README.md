@@ -137,12 +137,12 @@ ret
 ## Division alp
 ```
 org 100h
-MOV AL,[4300H]
-MOV BL,[4301H]
+MOV AL,[4500H]
+MOV BL,[4501H]
 DIV BL
-MOV [4302H],AL
+MOV [4502H],AX
+ret
 
-MOV [4303H],AH
 ```
 ## Output  
 ![Screenshot (758)](https://github.com/user-attachments/assets/3bb46e6e-cd97-4727-aba0-2c92673df97f)
